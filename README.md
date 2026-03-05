@@ -1,2 +1,2 @@
 # Resume
-Resume for a aws course
+Resume for an aws course
